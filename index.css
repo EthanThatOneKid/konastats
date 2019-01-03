@@ -11,14 +11,17 @@ body {
 }
 
 .page-content {
-	margin-top: 30px;
 	display: grid;
   place-items: center;
-  height: 70vh;
+  height: 78vh;
 }
 
-td {
-	padding: 20px;
+ul {
+	list-style-type: none;
+} li {
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 footer {
