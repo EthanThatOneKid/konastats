@@ -1,10 +1,20 @@
-# Konastats.com
-Homepage for Mr. Pines' website.
+# konastats.com 🌲
 
-## About
-Mr. Pines has a website where you can find all of the homework for all of the classes he teaches.
-A preview of the website can be found [here](https://htmlpreview.github.io/?https://github.com/EthanThatOneKid/konastats/blob/master/index.html) and the actual website can be found [here](http://konastats.com/). Enjoy, classmates.
-Also, concerning Mr. Pines, check out this other project of mine, [Cribbage Calc](https://htmlpreview.github.io/?https://github.com/EthanThatOneKid/math/blob/master/cribbage/demo/index.html). It helps you solve those pesky cribbage warm-up questions.
+> Homepage for Mr. Pines' website.
 
-## How
-I am using Google Material Design to help style the webpage. Everything else is done with pure html and css. Check the console for a surprise, btw.
+## About 🤔
+
+Mr. Pines was a math teacher and sports coach at my high school.
+While in his class, I was annoyed at how basic his home website looked so I offered to redesign it for him.
+This repository is the result of that offer and now it exists on [his domain, konastats.com](http://konastats.com/).
+[Here](https://htmlpreview.github.io/?https://github.com/EthanThatOneKid/konastats/blob/master/index.html) is a back-up link in case his site shuts down some day.
+Enjoy, Mr. Pines' students; my successors.
+
+## How Its Made 🛠
+
+I created the design of this site using [Material Design](https://material.io/design/) conventions.
+Everything else is done with pure HTML and some custom CSS.
+
+---
+
+Crafted with 🃏 by [EthanThatOneKid](http://ethandavidson.com/)
