@@ -17,4 +17,7 @@ Everything else is done with pure HTML and some custom CSS.
 
 ---
 
-Crafted with 🃏 by [EthanThatOneKid](http://ethandavidson.com/)
+Crafted with [🃏][cribbage] by [EthanThatOneKid][creator]
+
+[creator]: http://ethandavidson.com/
+[cribbage]: https://github.com/EthanThatOneKid/cribbage
